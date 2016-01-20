@@ -1,9 +1,11 @@
-p {
+.container p {
 	font-family: Helevetica Neue, Sans-Serif;
 }
 
-div {
+.container {
 	background-color: #A9A9A9;
+	width: 50%;
+	margin: 100px;
 }
 
 a {
@@ -11,7 +13,6 @@ a {
 	text-decoration: none;
 }
 
-a.hover {
+a:hover {
 	color: green;
-	text-decoration: none;
 }
