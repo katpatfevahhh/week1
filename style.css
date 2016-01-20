@@ -1,0 +1,17 @@
+p {
+	font-family: Helevetica Neue, Sans-Serif;
+}
+
+div {
+	background-color: #A9A9A9;
+}
+
+a {
+	color: red;
+	text-decoration: none;
+}
+
+a.hover {
+	color: green;
+	text-decoration: none;
+}
